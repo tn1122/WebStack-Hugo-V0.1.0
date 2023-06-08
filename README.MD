@@ -18,8 +18,10 @@ docker-compose up -d
 ```
 脚本部署
 ![部署](https://github.com/tn1122/WebStack-Hugo-V0.1.0/blob/main/help/43.png)
+
 查看docker是否启动成功
 ![查看](https://github.com/tn1122/WebStack-Hugo-V0.1.0/blob/main/help/b6.png)
+
 页面呈现
 ![呈现](https://github.com/tn1122/WebStack-Hugo-V0.1.0/blob/main/help/ae.png)
 
