@@ -16,6 +16,7 @@ docker build -t webstack_hugo:v1 .
 2 启动容器
 docker-compose up -d
 ```
+![部署](https://github.com/tn1122/WebStack-Hugo-V0.1.0/blob/main/help/43.png)
 
 
 ## 感谢
